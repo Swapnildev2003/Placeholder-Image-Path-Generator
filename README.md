@@ -26,8 +26,8 @@ This is a web application that generates placeholder image paths based on user i
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Swapnildev2003/Placeholder-Image-Path-Generator.git
+   cd Placeholder-Image-Path-Generator
    ```
 
 2. **Open `index.html` in your browser:**
